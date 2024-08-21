@@ -1,4 +1,4 @@
-# Osaka Card v2 (DeviceOrientation)
+# Osaka Card
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/jh3y/pen/jORQyzZ](https://codepen.io/jh3y/pen/jORQyzZ).
+在线预览链接：https://kiko-0.github.io/Card/
 
